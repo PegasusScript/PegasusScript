@@ -1,12 +1,3 @@
 💫 Hi ím PegasusScript, Owner of Pegasus Community 💫
 
-
-<div>
- <a href-"https://www.youtube.com/channel/UC0zNjzCbBZZNHvWqyRgQjvw" target-"_blank"><img src-"
-https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target-"_blank"></a>
- 
-<div>
- <a href "https://discord.gg/VTV2YZ5g" target-"_blank"><img src-"https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target-"_blank"
-
-
-
+![image](https://user-images.githubusercontent.com/91160967/134408698-86245be8-e322-4814-b3ac-b8034b07652a.png)
