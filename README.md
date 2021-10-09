@@ -1,9 +1,9 @@
-### ✨ Olá, I'm DustScript, Member Of CROW Labs ✨
+### ✨ Hello i´m Pegasus Owner of 99 ✨
 
 <div>
-  <a href="https://github.com/DustScript">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PegasusScript&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PegasusScript&layout=compact&langs_count=7&theme=dracula"/>
+  <a href="https://github.com/PegasusScript">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PegasusScript&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PegasusScript&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
